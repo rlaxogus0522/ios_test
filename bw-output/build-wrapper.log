@@ -1,0 +1,71 @@
+Mon May 18 19:07:15 2020: build-wrapper, version 6.9 (win-x86-64)
+Mon May 18 19:07:15 2020: isWow64: 0
+Mon May 18 19:07:15 2020: windows version: 6.2, service pack: 0.0, build number: 9200, product type: 1
+Mon May 18 19:07:15 2020: current directory: C:\iOS-Hello-World-master
+Mon May 18 19:07:15 2020: command line received: <sonar-scanner-ios.bat -X -D"sonar.projectKey=rlaxogus0522_ios_test" -D"sonar.organization=rlaxogus0522" -D"sonar.sources=." -D"sonar.cfamily.build-wrapper-output=bw-output" -D"sonar.host.url=https://sonarcloud.io" -D"sonar.login=b058a85f18346eefba2d4831e213ff1585d97bb6">
+Mon May 18 19:07:15 2020: initializing json file
+Mon May 18 19:07:15 2020: starting debug cycle
+Mon May 18 19:07:15 2020: process created with pid: 27256
+Mon May 18 19:07:15 2020: image path name: <C:\Windows\system32\cmd.exe>
+Mon May 18 19:07:15 2020: command line: <C:\Windows\system32\cmd.exe /c sonar-scanner-ios.bat -X -D"sonar.projectKey=rlaxogus0522_ios_test" -D"sonar.organization=rlaxogus0522" -D"sonar.sources=." -D"sonar.cfamily.build-wrapper-output=bw-output" -D"sonar.host.url=https://sonarcloud.io" -D"sonar.login=b058a85f18346eefba2d4831e213ff1585d97bb6">
+Mon May 18 19:07:15 2020: working directory: <C:\iOS-Hello-World-master\>
+Mon May 18 19:07:15 2020: isWow64: 0
+Mon May 18 19:07:15 2020: skipping process C:\Windows\system32\cmd.exe with pid: 27256
+Mon May 18 19:07:16 2020: process created with pid: 20608
+Mon May 18 19:07:16 2020: image path name: <C:\sonar-scanner-cli-4.2.0.1873-windows (2)\sonar-scanner-4.2.0.1873-windows\jre\bin\java.exe>
+Mon May 18 19:07:16 2020: command line: <"C:\sonar-scanner-cli-4.2.0.1873-windows (2)\sonar-scanner-4.2.0.1873-windows\bin\..\jre\bin\java.exe"  -Djava.awt.headless=true   -cp "C:\sonar-scanner-cli-4.2.0.1873-windows (2)\sonar-scanner-4.2.0.1873-windows\bin\..\lib\sonar-scanner-cli-4.2.0.1873.jar" "-Dscanner.home=C:\sonar-scanner-cli-4.2.0.1873-windows (2)\sonar-scanner-4.2.0.1873-windows\bin\.." "-Dproject.home=C:\iOS-Hello-World-master" org.sonarsource.scanner.cli.Main -X -D"sonar.projectKey=rlaxogus0522_ios_test" -D"sonar.organization=rlaxogus0522" -D"sonar.sources=." -D"sonar.cfamily.build-wrapper-output=bw-output" -D"sonar.host.url=https://sonarcloud.io" -D"sonar.login=b058a85f18346eefba2d4831e213ff1585d97bb6">
+Mon May 18 19:07:16 2020: working directory: <C:\iOS-Hello-World-master\>
+Mon May 18 19:07:16 2020: isWow64: 0
+Mon May 18 19:07:16 2020: skipping process C:\sonar-scanner-cli-4.2.0.1873-windows (2)\sonar-scanner-4.2.0.1873-windows\jre\bin\java.exe with pid: 20608
+Mon May 18 19:08:53 2020: process created with pid: 15212
+Mon May 18 19:08:53 2020: image path name: <C:\Program Files\Git\cmd\git.exe>
+Mon May 18 19:08:53 2020: command line: <git --version>
+Mon May 18 19:08:53 2020: working directory: <C:\Program Files\Git\cmd\>
+Mon May 18 19:08:53 2020: isWow64: 0
+Mon May 18 19:08:53 2020: skipping process C:\Program Files\Git\cmd\git.exe with pid: 15212
+Mon May 18 19:08:53 2020: process created with pid: 30276
+Mon May 18 19:08:53 2020: image path name: <\??\C:\Windows\system32\conhost.exe>
+Mon May 18 19:08:53 2020: command line: <\??\C:\Windows\system32\conhost.exe 0x4>
+Mon May 18 19:08:53 2020: working directory: <C:\Windows>
+Mon May 18 19:08:53 2020: isWow64: 0
+Mon May 18 19:08:53 2020: skipping process \??\C:\Windows\system32\conhost.exe with pid: 30276
+Mon May 18 19:08:53 2020: process created with pid: 13200
+Mon May 18 19:08:53 2020: image path name: <C:\Program Files\Git\mingw64\bin\git.exe>
+Mon May 18 19:08:53 2020: command line: <git.exe --version>
+Mon May 18 19:08:53 2020: working directory: <C:\Program Files\Git\cmd\>
+Mon May 18 19:08:53 2020: isWow64: 0
+Mon May 18 19:08:53 2020: skipping process C:\Program Files\Git\mingw64\bin\git.exe with pid: 13200
+Mon May 18 19:08:54 2020: process with pid 13200 exit with code: 0 (0x0)
+Mon May 18 19:08:54 2020: process with pid 15212 exit with code: 0 (0x0)
+Mon May 18 19:08:54 2020: process with pid 30276 exit with code: 0 (0x0)
+Mon May 18 19:08:54 2020: process created with pid: 22100
+Mon May 18 19:08:54 2020: image path name: <C:\Program Files\Git\cmd\git.exe>
+Mon May 18 19:08:54 2020: command line: <git config --system --edit>
+Mon May 18 19:08:54 2020: working directory: <C:\Program Files\Git\cmd\>
+Mon May 18 19:08:54 2020: isWow64: 0
+Mon May 18 19:08:54 2020: skipping process C:\Program Files\Git\cmd\git.exe with pid: 22100
+Mon May 18 19:08:54 2020: process created with pid: 11040
+Mon May 18 19:08:54 2020: image path name: <\??\C:\Windows\system32\conhost.exe>
+Mon May 18 19:08:54 2020: command line: <\??\C:\Windows\system32\conhost.exe 0x4>
+Mon May 18 19:08:54 2020: working directory: <C:\Windows>
+Mon May 18 19:08:54 2020: isWow64: 0
+Mon May 18 19:08:54 2020: skipping process \??\C:\Windows\system32\conhost.exe with pid: 11040
+Mon May 18 19:08:54 2020: process created with pid: 23800
+Mon May 18 19:08:54 2020: image path name: <C:\Program Files\Git\mingw64\bin\git.exe>
+Mon May 18 19:08:54 2020: command line: <git.exe config --system --edit>
+Mon May 18 19:08:54 2020: working directory: <C:\Program Files\Git\cmd\>
+Mon May 18 19:08:54 2020: isWow64: 0
+Mon May 18 19:08:54 2020: skipping process C:\Program Files\Git\mingw64\bin\git.exe with pid: 23800
+Mon May 18 19:08:54 2020: process created with pid: 28828
+Mon May 18 19:08:54 2020: image path name: <C:\Program Files\Git\usr\bin\echo.exe>
+Mon May 18 19:08:54 2020: command line: <echo "C:/Program Files/Git/etc/gitconfig">
+Mon May 18 19:08:54 2020: working directory: <C:\Program Files\Git\cmd\>
+Mon May 18 19:08:54 2020: isWow64: 0
+Mon May 18 19:08:54 2020: skipping process C:\Program Files\Git\usr\bin\echo.exe with pid: 28828
+Mon May 18 19:08:54 2020: process with pid 28828 exit with code: 0 (0x0)
+Mon May 18 19:08:54 2020: process with pid 23800 exit with code: 0 (0x0)
+Mon May 18 19:08:54 2020: process with pid 22100 exit with code: 0 (0x0)
+Mon May 18 19:08:54 2020: process with pid 11040 exit with code: 0 (0x0)
+Mon May 18 19:09:00 2020: process with pid 20608 exit with code: 1 (0x1)
+Mon May 18 19:09:00 2020: process with pid 27256 exit with code: 1 (0x1)
+Mon May 18 19:09:00 2020: finalizing json file
